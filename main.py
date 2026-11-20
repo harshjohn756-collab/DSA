@@ -12,5 +12,5 @@ class Solution(object):
 Sc = Solution()
 Sc.myAtoi("0--1")
 sr = "0-1"
-sr.
+
 
